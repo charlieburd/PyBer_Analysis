@@ -12,12 +12,12 @@
 
 #### From the DataFrame summary we were that Urban has the most business in term of rides and drivers, followed by Suburban and Rural. Average Fare per Ride and Driver showed the opposite. With Rural having the most expensive rides and the largest fare per driver. Likely duo to simple economics as there is less supply for the rural cities, so they can charge a higher rate. 
 #
-![stacked_launch_outcomes](https://github.com/charlieburd/PyBer_Analysis/blob/main/Resources/pyber_summary_df.png)
+
 #
 
 #### From the Total Fare by City Type we can confirm the analysis from Deliverable 1, Urban does bring in the largest Fare Totals week over week, followed by Suburban and Rural. But we can also analyze how those shares change each week. For example, in the 3rd week of Feb we see a big spike is fare totals among all city types, spikes like these can sometimes be attributed to holidays or current events. But also in the 2nd week of Jan we see Urban fare total dip, while Suburban and Rural fare totals increased. Overall, fare total remained quite consistent over the timeline analyzed, there were not a major seasonal trend, if we looked at a larger timeline we may see something like this. 
 #
-![stacked_launch_outcomes](https://github.com/charlieburd/PyBer_Analysis/blob/main/Resources/weekly_fare_df.png)
+
 #
 
 
