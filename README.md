@@ -16,7 +16,7 @@
 ![stacked_launch_outcomes](https://github.com/charlieburd/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
 #
 
-### Deliverable 1
+### Deliverable 2
 #### From the Total Fare by City Type we can confirm the analysis from Deliverable 1, Urban does bring in the largest Fare Totals week over week, followed by Suburban and Rural. But we can also analyze how those shares change each week. For example, in the 3rd week of Feb we see a big spike is fare totals among all city types, spikes like these can sometimes be attributed to holidays or current events. But also in the 2nd week of Jan we see Urban fare total dip, while Suburban and Rural fare totals increased. Overall, fare total remained quite consistent over the timeline analyzed, there were not a major seasonal trend, if we looked at a larger timeline we may see something like this. 
 #
 ![stacked_launch_outcomes](https://github.com/charlieburd/PyBer_Analysis/blob/main/analysis/weekly_fare_df.png)
